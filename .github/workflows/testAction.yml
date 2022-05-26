@@ -1,4 +1,4 @@
-name: Testing Github action for python server123
+name: Testing Github action for python server - testG
 
 on:
   push:
