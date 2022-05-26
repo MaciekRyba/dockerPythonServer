@@ -6,7 +6,7 @@ on:
 
 jobs:
   build-push-images:
-    name: Build and publish python server
+    name: Build and publish python server - test
     runs-on: ubuntu-latest
 
     steps:
