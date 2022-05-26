@@ -1,4 +1,4 @@
-name: Testing Github action for python server - testG
+name: Testing Github action for python server
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
 
 jobs:
   build-push-images:
-    name: Build and publish python server - test
+    name: Build and publish python server
     runs-on: ubuntu-latest
 
     steps:
