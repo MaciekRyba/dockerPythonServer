@@ -5,7 +5,7 @@ from datetime import datetime
 import socket
 
 
-
+#Test pythos server
 #W celu wysłania zapytania do serwera należy w przeglądarce podać adres localhost:8000.
 
 hostName = "localhost"
